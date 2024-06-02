@@ -34,7 +34,6 @@ All the data provided in these folders is of JSON format. For more details on th
 Comprehensive Folder Structure
 The data is organized into specific categories and regions, covering extensive temporal spans from 2018 to 2024, broken down by quarters for granular analysis:
 
-
 data
 |___ aggregated
 |   |___ transactions
@@ -80,6 +79,7 @@ data
 |       |___ country
 |           |___ india
 |               |___ yearly (2018-2024)
+
 
 **JSON Structure / Syntax**
 1. Aggregated
