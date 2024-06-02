@@ -33,8 +33,8 @@ All the data provided in these folders is of JSON format. For more details on th
 **Documentation**
 Comprehensive Folder Structure
 The data is organized into specific categories and regions, covering extensive temporal spans from 2018 to 2024, broken down by quarters for granular analysis:
-markdown
-Copy code
+
+
 data
 |___ aggregated
 |   |___ transactions
